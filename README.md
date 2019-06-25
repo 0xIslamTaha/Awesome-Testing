@@ -7,4 +7,5 @@
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
 - [Gatling vs JMeter vs The Grinder](https://www.baeldung.com/gatling-jmeter-grinder-comparison)
 - Video : [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw)
+- Video : [Michael Sluyter - Performance Testing with Python and Locust (PyTexas 2017)](https://www.youtube.com/watch?v=5sSouciEgWE)
 - Video : [Trying Load testing on Airbnb Clone with Locust](https://www.youtube.com/watch?v=9P1HtbpGSCk)
