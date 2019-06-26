@@ -4,6 +4,7 @@
 - http://gettaurus.org/
 
 ## UI Testing:
+- [selenium-python](https://selenium-python.readthedocs.io)
 - [My Selenium Tests Aren't Stable!](https://testing.googleblog.com/2009/06/my-selenium-tests-arent-stable.html)
 - [Move over Selenium - UI Testing with Cypress](https://godaddy.github.io/2018/11/06/cypress-vs-selenium/)
 - [Introducing Taiko - the last mile to reliable test automation](https://gauge.org/2018/10/23/taiko-beta-reliable-browser-automation/)
