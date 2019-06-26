@@ -5,6 +5,11 @@
 
 ## UI Testing:
 - [My Selenium Tests Aren't Stable!](https://testing.googleblog.com/2009/06/my-selenium-tests-arent-stable.html)
+- [Move over Selenium - UI Testing with Cypress](https://godaddy.github.io/2018/11/06/cypress-vs-selenium/)
+- [Introducing Taiko - the last mile to reliable test automation](https://gauge.org/2018/10/23/taiko-beta-reliable-browser-automation/)
+- [How to write reliable browser tests using Selenium and Node.js](https://www.freecodecamp.org/news/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9/)
+- [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
+
 
 ## Perfromance Testing:
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
