@@ -19,3 +19,7 @@
 - Video : [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw)
 - Video : [Michael Sluyter - Performance Testing with Python and Locust (PyTexas 2017)](https://www.youtube.com/watch?v=5sSouciEgWE)
 - Video : [Trying Load testing on Airbnb Clone with Locust](https://www.youtube.com/watch?v=9P1HtbpGSCk)
+
+
+## TravisCI:
+- [How to Run TravisCI locally on Docker](https://medium.com/google-developers/how-to-run-travisci-locally-on-docker-822fc6b2db2e)
