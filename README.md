@@ -21,5 +21,6 @@
 - Video : [Trying Load testing on Airbnb Clone with Locust](https://www.youtube.com/watch?v=9P1HtbpGSCk)
 
 
-## TravisCI:
+## CI:
 - [How to Run TravisCI locally on Docker](https://medium.com/google-developers/how-to-run-travisci-locally-on-docker-822fc6b2db2e)
+- [Docker selenium python chrome firefox image](https://github.com/dimmg/dockselpy)
