@@ -24,3 +24,7 @@
 ## CI:
 - [How to Run TravisCI locally on Docker](https://medium.com/google-developers/how-to-run-travisci-locally-on-docker-822fc6b2db2e)
 - [Docker selenium python chrome firefox image](https://github.com/dimmg/dockselpy)
+
+## Free test management systems:
+- https://github.com/OpenTMI/opentmi
+- https://github.com/marketplace/testquality
