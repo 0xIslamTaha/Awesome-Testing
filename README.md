@@ -28,3 +28,6 @@
 ## Free test management systems:
 - https://github.com/OpenTMI/opentmi
 - https://github.com/marketplace/testquality
+
+## Debugging:
+- [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
