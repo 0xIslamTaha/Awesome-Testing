@@ -11,6 +11,8 @@
 - [How to write reliable browser tests using Selenium and Node.js](https://www.freecodecamp.org/news/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9/)
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 
+## DataBase Testing:
+- [Agile database integration tests with Python, SQLAlchemy and Factory Boy](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
 
 ## Perfromance Testing:
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
