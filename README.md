@@ -4,6 +4,7 @@
 - http://gettaurus.org/
 
 ## UI Testing:
+- [All you need to know about the Selenium Framework](https://www.browserstack.com/guide/selenium-framework)
 - [selenium-python](https://selenium-python.readthedocs.io)
 - [My Selenium Tests Aren't Stable!](https://testing.googleblog.com/2009/06/my-selenium-tests-arent-stable.html)
 - [Move over Selenium - UI Testing with Cypress](https://godaddy.github.io/2018/11/06/cypress-vs-selenium/)
