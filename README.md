@@ -13,6 +13,7 @@
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 
 ## DataBase Testing:
+- [Database(Data) Testing Tutorial with Sample TestCases](https://www.guru99.com/data-testing.html)
 - [Agile database integration tests with Python, SQLAlchemy and Factory Boy](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
 
 ## Perfromance Testing:
