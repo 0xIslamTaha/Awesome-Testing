@@ -12,6 +12,9 @@
 - [How to write reliable browser tests using Selenium and Node.js](https://www.freecodecamp.org/news/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9/)
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 
+## Mobile Testing:
+- [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
+
 ## DataBase Testing:
 - [Database(Data) Testing Tutorial with Sample TestCases](https://www.guru99.com/data-testing.html)
 - [Agile database integration tests with Python, SQLAlchemy and Factory Boy](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
@@ -35,3 +38,5 @@
 
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
+
+
