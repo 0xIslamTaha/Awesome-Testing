@@ -14,6 +14,7 @@
 
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
+- [Appium with travis](https://twpower.github.io/109-travis-ci-appium-android-test-en)
 
 ## DataBase Testing:
 - [Database(Data) Testing Tutorial with Sample TestCases](https://www.guru99.com/data-testing.html)
