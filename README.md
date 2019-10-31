@@ -40,4 +40,8 @@
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
 
+## Resourses:
+- https://blog.feedspot.com/automation_testing_blogs/
+- https://automationpanda.com/
+- 
 
