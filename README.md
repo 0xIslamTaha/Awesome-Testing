@@ -43,5 +43,8 @@
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
 - https://automationpanda.com/
-- 
+
+
+## Secyrity Testing:
+- [Web Application Testing](https://hackingresources.com/web-application-penetration-testing-course/)
 
