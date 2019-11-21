@@ -46,5 +46,14 @@
 
 
 ## Secyrity Testing:
+- [Hacker Road Map](https://github.com/sundowndev/hacker-roadmap#what-is-penetration-testing)
 - [Web Application Testing](https://hackingresources.com/web-application-penetration-testing-course/)
+- [How to Learn Penetration Testing: A Beginners Tutorial](https://www.codemopolitan.com/learn-penetration-testing/)
+- [How to Find Subdomains (And Why You Should)](https://www.codemopolitan.com/how-to-find-subdomains/)
+- [How I Pwned a million dollar company!](https://medium.com/bugbountywriteup/how-i-pwned-a-million-dollar-company-9fa5bfd234dd)
+- [How to exploit misconfigured AWS S3 Buckets?](https://medium.com/@cvignesh28/aws-s3-bucket-misconfiguration-c11e8f86e9a7)
 
+### Security tools:
+- [Recsech](https://github.com/radenvodka/Recsech)
+- [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
+- [Sn1per](https://github.com/1N3/Sn1per)
