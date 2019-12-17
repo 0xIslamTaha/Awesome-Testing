@@ -11,6 +11,7 @@
 - [Introducing Taiko - the last mile to reliable test automation](https://gauge.org/2018/10/23/taiko-beta-reliable-browser-automation/)
 - [How to write reliable browser tests using Selenium and Node.js](https://www.freecodecamp.org/news/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9/)
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
+- [XPath in Selenium WebDriver: Complete Tutorial](https://www.guru99.com/xpath-selenium.html)
 
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
