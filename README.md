@@ -41,11 +41,6 @@
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
 
-## Resourses:
-- https://blog.feedspot.com/automation_testing_blogs/
-- https://automationpanda.com/
-
-
 ## Secyrity Testing:
 - [Hacker Road Map](https://github.com/sundowndev/hacker-roadmap#what-is-penetration-testing)
 - [Web Application Testing](https://hackingresources.com/web-application-penetration-testing-course/)
@@ -60,3 +55,10 @@
 - [Sn1per](https://github.com/1N3/Sn1per)
 - [XSpear](https://github.com/hahwul/XSpear)
 - [kage](https://github.com/Zerx0r/Kage)
+
+### GIT trickes:
+- [Git Rebase: tips & tricks](https://medium.com/@richarderdos/git-rebase-tips-tricks-164734a2e47d)
+
+## Resourses:
+- https://blog.feedspot.com/automation_testing_blogs/
+- https://automationpanda.com/
