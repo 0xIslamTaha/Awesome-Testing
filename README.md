@@ -13,6 +13,9 @@
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 - [XPath in Selenium WebDriver: Complete Tutorial](https://www.guru99.com/xpath-selenium.html)
 
+## Visual Testing:
+- [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
+
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
 - [Appium with travis](https://twpower.github.io/109-travis-ci-appium-android-test-en)
