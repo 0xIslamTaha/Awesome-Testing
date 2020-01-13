@@ -12,6 +12,8 @@
 - [How to write reliable browser tests using Selenium and Node.js](https://www.freecodecamp.org/news/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9/)
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 - [XPath in Selenium WebDriver: Complete Tutorial](https://www.guru99.com/xpath-selenium.html)
+- [XPATH cheatsheet](https://devhints.io/xpath#prefixes)
+
 
 ## Visual Testing:
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
