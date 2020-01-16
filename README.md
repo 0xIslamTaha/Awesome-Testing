@@ -13,6 +13,7 @@
 - [Top Automation Testing Frameworks Professionals Love](https://crossbrowsertesting.com/blog/test-automation/top-automation-frameworks-testers/)
 - [XPath in Selenium WebDriver: Complete Tutorial](https://www.guru99.com/xpath-selenium.html)
 - [XPATH cheatsheet](https://devhints.io/xpath#prefixes)
+- [Test UI components](https://www.learnstorybook.com/intro-to-storybook/react/en/test/)
 
 
 ## Visual Testing:
