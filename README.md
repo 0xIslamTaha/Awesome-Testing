@@ -17,6 +17,7 @@
 
 ## Visual Testing:
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
+- [Using BackstopJS to Spot the Difference](https://pantheon.io/blog/using-backstopjs-spot-difference)
 
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
