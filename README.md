@@ -67,6 +67,13 @@
 ### GIT trickes:
 - [Git Rebase: tips & tricks](https://medium.com/@richarderdos/git-rebase-tips-tricks-164734a2e47d)
 
+### README TOOLS:
+- [termtosvg](https://github.com/nbedos/termtosvg)
+- [Capture screenshots, gifs, and replay videos that are ready to share instantly.
+Don't miss another moment.](https://gyazo.com/)
+
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
 - https://automationpanda.com/
+
+
