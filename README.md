@@ -1,5 +1,8 @@
 # Topics
 
+## Road maps:
+- [software testing road map](https://medium.com/tech-tajawal/software-testing-the-road-map-5807a5590886)
+
 ## Python Tools:
 - http://gettaurus.org/
 
