@@ -22,6 +22,7 @@
 ## Visual Testing:
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
 - [Using BackstopJS to Spot the Difference](https://pantheon.io/blog/using-backstopjs-spot-difference)
+- [cypress-viusal-tesing](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
 
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
@@ -74,6 +75,9 @@
 - [termtosvg](https://github.com/nbedos/termtosvg)
 - [Capture screenshots, gifs, and replay videos that are ready to share instantly.
 Don't miss another moment.](https://gyazo.com/)
+
+### Reporting tools:
+- [Gif recorder](https://github.com/phw/peek#ubuntu)
 
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
