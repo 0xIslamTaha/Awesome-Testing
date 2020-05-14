@@ -22,7 +22,7 @@
 ## Visual Testing:
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
 - [Using BackstopJS to Spot the Difference](https://pantheon.io/blog/using-backstopjs-spot-difference)
-- [cypress-viusal-tesing](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
+- [Visual Regression testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
 
 ## Mobile Testing:
 - [Installing Appium in linux](https://medium.com/@SteelKiwiDev/5-steps-to-setup-environment-for-android-apps-automation-testing-on-linux-48fb8d76bd76)
