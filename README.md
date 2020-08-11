@@ -40,7 +40,6 @@
 - Video : [Michael Sluyter - Performance Testing with Python and Locust (PyTexas 2017)](https://www.youtube.com/watch?v=5sSouciEgWE)
 - Video : [Trying Load testing on Airbnb Clone with Locust](https://www.youtube.com/watch?v=9P1HtbpGSCk)
 
-
 ## CI:
 - [How to Run TravisCI locally on Docker](https://medium.com/google-developers/how-to-run-travisci-locally-on-docker-822fc6b2db2e)
 - [Docker selenium python chrome firefox image](https://github.com/dimmg/dockselpy)
@@ -49,6 +48,10 @@
 ## Free test management systems:
 - https://github.com/OpenTMI/opentmi
 - https://github.com/marketplace/testquality
+
+## Report Frameworks:
+- [Allure framework](https://github.com/allure-framework/allure2)
+- [Report Portal](https://github.com/reportportal)
 
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
