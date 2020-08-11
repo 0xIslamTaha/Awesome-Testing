@@ -53,6 +53,7 @@
 ## Report Frameworks:
 - [Allure framework](https://github.com/allure-framework/allure2)
 - [Report Portal](https://github.com/reportportal)
+- [Test results management with ReportPortal.io](https://medium.com/@novyludek/test-results-management-with-reportportal-io-4684d5ee9572)
 
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
@@ -80,7 +81,7 @@
 - [Capture screenshots, gifs, and replay videos that are ready to share instantly.
 Don't miss another moment.](https://gyazo.com/)
 
-### Reporting tools:
+### Bug reporting tools:
 - [Gif recorder](https://github.com/phw/peek#ubuntu)
 
 ## Resourses:
