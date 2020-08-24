@@ -17,6 +17,7 @@
 - [XPath in Selenium WebDriver: Complete Tutorial](https://www.guru99.com/xpath-selenium.html)
 - [XPATH cheatsheet](https://devhints.io/xpath#prefixes)
 - [Test UI components](https://www.learnstorybook.com/intro-to-storybook/react/en/test/)
+- [Testing the Components and Behaviors of Your Design System](https://seesparkbox.com/foundry/design_system_component_testing_unit_testing_behavior_testing)
 
 
 ## Visual Testing:
