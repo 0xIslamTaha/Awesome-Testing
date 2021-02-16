@@ -35,6 +35,7 @@
 - [Agile database integration tests with Python, SQLAlchemy and Factory Boy](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
 
 ## Perfromance Testing:
+- [Load Testing With Locust - Practical Article](https://medium.com/swlh/load-testing-with-locust-3e74349f9cbf)
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
 - [Gatling vs JMeter vs The Grinder](https://www.baeldung.com/gatling-jmeter-grinder-comparison)
 - [How do I locust?](https://github.com/pglass/how-do-i-locust)
