@@ -20,6 +20,9 @@
 - [Testing the Components and Behaviors of Your Design System](https://seesparkbox.com/foundry/design_system_component_testing_unit_testing_behavior_testing)
 
 
+## Locators:
+- [CSS locators funy game](https://flukeout.github.io/)
+
 ## Visual Testing:
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
 - [Using BackstopJS to Spot the Difference](https://pantheon.io/blog/using-backstopjs-spot-difference)
