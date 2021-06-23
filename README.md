@@ -65,6 +65,7 @@
 
 ## Debugging:
 - [ipdb interactive debugger](https://vinta.ws/code/ipdb-interactive-python-debugger-with-ipython.html)
+- [PySnooper - Never use print for debugging again](https://pypi.org/project/PySnooper/)
 
 ## Secyrity Testing:
 - [Hacker Road Map](https://github.com/sundowndev/hacker-roadmap#what-is-penetration-testing)
