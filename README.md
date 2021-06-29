@@ -93,6 +93,9 @@ Don't miss another moment.](https://gyazo.com/)
 ### Bug reporting tools:
 - [Gif recorder](https://github.com/phw/peek#ubuntu)
 
+### Python development resources:
+- [auto-format](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
+
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
 - https://automationpanda.com/
