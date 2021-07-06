@@ -96,6 +96,9 @@ Don't miss another moment.](https://gyazo.com/)
 ### Python development resources:
 - [auto-format](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
 
+### General tools:
+- [check regexp online](https://regexr.com/)
+
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
 - https://automationpanda.com/
