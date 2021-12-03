@@ -18,6 +18,7 @@
 - [XPATH cheatsheet](https://devhints.io/xpath#prefixes)
 - [Test UI components](https://www.learnstorybook.com/intro-to-storybook/react/en/test/)
 - [Testing the Components and Behaviors of Your Design System](https://seesparkbox.com/foundry/design_system_component_testing_unit_testing_behavior_testing)
+- [5 Things to Avoid When Writing Cypress Tests](https://www.webiny.com/blog/things-to-avoid-when-writing-cypress-tests)
 
 
 ## Locators:
