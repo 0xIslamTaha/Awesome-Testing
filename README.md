@@ -38,6 +38,9 @@
 - [Database(Data) Testing Tutorial with Sample TestCases](https://www.guru99.com/data-testing.html)
 - [Agile database integration tests with Python, SQLAlchemy and Factory Boy](https://medium.com/@vittorio.camisa/agile-database-integration-tests-with-python-sqlalchemy-and-factory-boy-6824e8fe33a1)
 
+## API Testing:
+- [API contract testing with Dredd](https://www.youtube.com/watch?v=gOCj4OqEFPc)
+
 ## Perfromance Testing:
 - [Load Testing With Locust - Practical Article](https://medium.com/swlh/load-testing-with-locust-3e74349f9cbf)
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
