@@ -40,6 +40,7 @@
 
 ## API Testing:
 - [API contract testing with Dredd](https://www.youtube.com/watch?v=gOCj4OqEFPc)
+- [Writing Unit Tests for Your Node.js API](https://betterprogramming.pub/writing-unit-tests-for-your-nodejs-api-13257bd0e46b)
 
 ## Perfromance Testing:
 - [Load Testing With Locust - Practical Article](https://medium.com/swlh/load-testing-with-locust-3e74349f9cbf)
