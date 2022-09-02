@@ -104,6 +104,7 @@ Don't miss another moment.](https://gyazo.com/)
 
 ### General tools:
 - [check regexp online](https://regexr.com/)
+- [asciinema](https://asciinema.org/)
 
 ## Resourses:
 - https://blog.feedspot.com/automation_testing_blogs/
