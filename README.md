@@ -42,6 +42,11 @@
 - [API contract testing with Dredd](https://www.youtube.com/watch?v=gOCj4OqEFPc)
 - [Writing Unit Tests for Your Node.js API](https://betterprogramming.pub/writing-unit-tests-for-your-nodejs-api-13257bd0e46b)
 
+## API Contract Testing:
+- [contract testing](https://docs.gitlab.com/ee/development/testing_guide/contract/)
+- [API contract testing with Joi](https://circleci.com/blog/api-contract-testing-with-joi/)
+- [pact](https://docs.pact.io/)
+
 ## Perfromance Testing:
 - [Load Testing With Locust - Practical Article](https://medium.com/swlh/load-testing-with-locust-3e74349f9cbf)
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
