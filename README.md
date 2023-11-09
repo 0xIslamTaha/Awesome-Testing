@@ -69,6 +69,7 @@
 ## Free test management systems:
 - https://github.com/OpenTMI/opentmi
 - https://github.com/marketplace/testquality
+- [Testomatio](https://testomat.io/) 
 
 ## Report Frameworks:
 - [Allure framework](https://github.com/allure-framework/allure2)
