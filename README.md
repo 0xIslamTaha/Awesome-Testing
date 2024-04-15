@@ -29,6 +29,7 @@
 - [Automated Visual Testing](https://storybook.js.org/docs/testing/automated-visual-testing/)
 - [Using BackstopJS to Spot the Difference](https://pantheon.io/blog/using-backstopjs-spot-difference)
 - [Visual Regression testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
+- [Ultimate Guide to Visual Testing with Playwright](https://www.browsercat.com/post/ultimate-guide-visual-testing-playwright#working-with-element-snapshots)
 - [Visual Regression Testing and Cross-Browser Testing Dashboard](https://gist.github.com/jeremygrajales/3d1d9fbbb0898f4b7846c4211ce8e662)
 
 ## Mobile Testing:
