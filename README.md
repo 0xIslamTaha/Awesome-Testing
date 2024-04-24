@@ -51,6 +51,7 @@
 
 ## Perfromance Testing:
 - [Load Testing With Locust - Practical Article](https://medium.com/swlh/load-testing-with-locust-3e74349f9cbf)
+- [k6 fully tutorial](https://github.com/grafana/k6-learn/blob/74961d462fb915da659661fdc41edc9d9e845bb9/Modules/I-Performance-testing-principles/01-Introduction-to-Performance-Testing.md)
 - [Jmeter VS Locust](https://blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose/)
 - [Gatling vs JMeter vs The Grinder](https://www.baeldung.com/gatling-jmeter-grinder-comparison)
 - [How do I locust?](https://github.com/pglass/how-do-i-locust)
